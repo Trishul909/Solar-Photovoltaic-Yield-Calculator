@@ -59,6 +59,13 @@ where:
 Actual Power = Base Power × Derating Factor
 
 ---
+## Assumptions and Constants
+
+| Constant | Symbol | Value |
+|----------|---------|--------|
+| Reference Temperature | Tref | 25 °C |
+| Nominal Operating Cell Temperature | NOCT | 45 °C |
+| Temperature Coefficient | γ | -0.004 / °C |
 
 ## Example Input
 
