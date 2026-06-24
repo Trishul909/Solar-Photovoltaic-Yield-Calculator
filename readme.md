@@ -130,20 +130,6 @@ These plots help visualize photovoltaic performance and temperature-related powe
 - PDF report generation
 - Comparison of multiple solar panel configurations
 
----
 
-## How to Run
-
-Install required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the program:
-
-```bash
-python solar_pv_calculator.py
-```
 
 ---
